@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed
 
-**Computer Engineering student** with a passion for **technology, web development, and artificial intelligence**.  
-I love turning ideas into interactive, data-driven applications and continuously exploring new tools and frameworks.  
+A **Computer Engineering student** with a passion for **technology**.  
+I love turning ideas into applications and continuously exploring new tools and frameworks.
 
 ---
 
