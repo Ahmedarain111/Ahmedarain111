@@ -1,11 +1,5 @@
 # Hi there, I'm Ahmed Arain 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ahmedarain111&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/Ahmedarain111"><img src="https://img.shields.io/badge/GitHub-Ahmedarain111-blue?style=flat&logo=github" alt="GitHub" /></a>
-  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging%20Face-Models%20%26%20Spaces-yellow?style=flat&logo=huggingface" alt="Hugging Face" /></a>
-</p>
-
 ---
 
 I am an **AI Engineer & Backend Developer** and a **Computer Engineering undergraduate** at Mehran University of Engineering and Technology (MUET). I specialize in building intelligent agentic systems, end-to-end machine learning pipelines, and scalable backend architectures.
