@@ -28,23 +28,6 @@ I am an **AI Engineer & Backend Developer** and a **Computer Engineering undergr
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedarain111&show_icons=true&theme=radical&hide_border=true&bg_color=161b22" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedarain111&theme=radical&hide_border=true&bg_color=161b22" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedarain111&layout=compact&theme=radical&hide_border=true&bg_color=161b22" alt="Top Languages" />
-</p>
-
----
-
 ### 🌐 Connect With Me
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/ahmed-arain)
 
-- **GitHub:** [Ahmedarain111](https://github.com/Ahmedarain111)
-- **Hugging Face:** [Explore my models and spaces](https://huggingface.co/)
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/) *(Add your profile URL here)*
-
-⚡ *“Turning generative AI and machine learning models into production-ready software.”*
